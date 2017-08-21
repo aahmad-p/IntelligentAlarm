@@ -1,3 +1,3 @@
-# superalarm
+# IntelligentAlarm
 
-An alarm system with advanced detection and notification capability. Deters stupid thieves.
+An alarm system with advanced detection and notification capability. 
