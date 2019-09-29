@@ -1,5 +1,3 @@
-Welcome to the IntelligentAlarm wiki!
-
 IntelligentAlarm
 An alarm system with advanced detection and notification capability.
 
